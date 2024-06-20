@@ -1,161 +1,150 @@
-<h1 align="center"><b>Hi , I'm Micael </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B94C3&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hola+Mundo...;Me+llamo+Micael+David+Cuadrado+Silva;Vivo+en+Per%C3%BA-Lima%2C+hermosa+ciudad;A+seguir+Programando..." alt="Typing SVG" /></a>
+![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 <br>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- 🔭 I’m currently working on **UA IT(JKH IT)**
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
+
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
+
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+
+- ⚡ Fun fact **I think I'm funny**
 
 <br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
+<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
-<!------------------------->
-<div id="apoyo">
-<h2>Si quieres apoyarme 😻</h2>
-  <p align="left">
- <a href='https://cafecito.app/unsimpledev' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>
-    
-<a href='https://matecito.co/unsimpledev' rel='noopener' target='_blank'><img srcset='https://www.matecito.co/public/button_11.png 1x, https://www.matecito.co/public/button_11_2x.png 2x, https://www.matecito.co/public/button_11_3.75x.png 3.75x' src='https://www.matecito.co/public/button_11.png' alt='Convidame un Matecito' align="left" height="50" width="240" /></a>
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
 
-    
-    
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
-  </p>
-</div>
-  <br>
-<br><br>
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
 
-<td width="40%" align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+<br><br>
 
-</p>        
-<!--- stats (end) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Achievements:</h3>
+
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
