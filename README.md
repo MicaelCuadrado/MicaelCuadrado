@@ -43,13 +43,21 @@
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **I think I'm funny**
+- 
+<br>
+<h3 align="left">Lenguajes de programación:</h3>
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+</p>
+
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:micael.cuadrado@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/micael-cuadrado-silva-254b49269/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/MicaelCS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Kaggle"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-@Micael.cs-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Kaggle"/></a>
