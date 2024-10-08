@@ -131,7 +131,7 @@
 <br>
 <!-- 	<p align="center"><a href="https://www.buymeacoffee.com/micael.cs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50" width="210" alt="scar2001" /></a></p>
  -->
-<p align="center"><i>Si aprecias lo que hago y deseas apoyar mi trabajo, puedes considerar invitarme a un café ☕</i>
+<p align="center"><i>Si aprecias lo que hago y deseas apoyar mi trabajo, puedes considerar invitarme a un café ☕</i><br>
 <a href="https://www.buymeacoffee.com/micael.cs" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Cómprame un café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <br>
