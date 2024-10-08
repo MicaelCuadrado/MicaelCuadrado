@@ -27,18 +27,18 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!--  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">-->
 <br><br>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.\
+🎓 &nbsp;Actualmente soy estudiante de Computación e Informática en el Istituto Superior Técnologico Argentina.\
+🌱 &nbsp;Estoy en constante aprendizaje, con un interés particular en programación, gestión de proyectos tecnológicos y desarrollo de software.\
+✍️ &nbsp;En mi tiempo libre, disfruto de trabajar en proyectos personales y participar en actividades de liderazgo, además de estar siempre en búsqueda de nuevas habilidades.\
+💬 &nbsp;No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas interesantes.\
+✉️ &nbsp;¡Puedes enviarme un correo a micael.cuadrado@gmail.com! Siempre trataré de responder lo más rápido posible.\
+📄 &nbsp;Echa un vistazo a mi perfil para conocer más detalles. ¡Estoy abierto a sugerencias y nuevos desafíos!
 
 
 <br>
