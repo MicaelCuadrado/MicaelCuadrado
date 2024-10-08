@@ -96,8 +96,8 @@
 
 <h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+	<p align="center">
+	<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh">
@@ -107,7 +107,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Estadisticas:</h3>
 <div align="center">
  
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
@@ -120,7 +120,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Actividad:</h3>
 
 ![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
@@ -131,8 +131,6 @@
 <br>
 <!-- 	<p align="center"><a href="https://www.buymeacoffee.com/micael.cs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50" width="210" alt="scar2001" /></a></p>
  -->
-
-
 <p align="center"><i>Si aprecias lo que hago y deseas apoyar mi trabajo, puedes considerar invitarme a un café ☕</i><br><br>
 <a href="https://www.buymeacoffee.com/micael.cs" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Cómprame un café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
@@ -142,7 +140,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" />
   <br/>
 </div>
 
