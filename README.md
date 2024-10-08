@@ -91,7 +91,9 @@
 
 <hr>
 
-### Spotify:
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<h3>ﾠSpotify:</h3>
+
 <div align="center">
 	
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
