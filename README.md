@@ -47,7 +47,7 @@
 
 <br>
 <img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
-<img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px" height="15px">
+<img align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 <h3>Lenguajes de programación:</h3>
 
 
@@ -73,7 +73,10 @@
 </div>
 <hr>
 <br>
-<img align="right" width=170px height=170px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+
+
+<img align="right" width=170px height=170px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
 	<a href="mailto:micael.cuadrado@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
