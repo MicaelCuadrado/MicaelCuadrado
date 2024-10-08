@@ -95,9 +95,9 @@
 <hr>
 
 <h3 align="left">Trophy:</h3>
-
-	<p align="center">
-	<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<br>
+<!-- <p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p> -->
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh">
@@ -137,7 +137,9 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
+<h3 align="left">Contribuciones:</h3>
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" />
