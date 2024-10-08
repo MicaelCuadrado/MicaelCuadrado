@@ -5,7 +5,7 @@
 <h3 align="center">Un apasionado estudiante de Computación e Informática de Lima, Perú</h3>
 <p align="center">Me fascina cómo la tecnología 🌐 está transformando el futuro, y desde muy joven he estado interesado en las infinitas posibilidades que ofrece la computación. Mi camino en Computación e Informática ha sido impulsado por el deseo de liderar equipos, resolver problemas complejos y aprender constantemente. Me encanta explorar nuevos lenguajes de programación y stacks tecnológicos 💻, aplicándolos para desarrollar soluciones innovadoras 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://img.shields.io/badge/visitas-97-blue" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" />
+ <!-- <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" /> -->
 <!--   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />  -->
 </div>
 
