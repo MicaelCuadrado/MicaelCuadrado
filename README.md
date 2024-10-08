@@ -44,7 +44,7 @@
 <br>
 <h3 align="left">Lenguajes de programación:</h3>
 <div align="center">
-### 🛠 &nbsp;
+&nbsp;
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
