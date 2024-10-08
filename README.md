@@ -43,8 +43,8 @@
 
 <br>
 <h3 align="left">Lenguajes de programación:</h3>
-<p align="center">
-### 🛠 &nbsp;Pila de tecnología:
+<div align="center">
+### 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
@@ -61,7 +61,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-EFA91C?style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1C4EDD?=flat&logo=adobe-photoshop&logoColor=black)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-C31948?style=flat&logo=adobe-indesign&logoColor=black)
-</p>
+</div>
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
