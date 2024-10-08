@@ -55,7 +55,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-EEECEC?&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/-%EF%BC%83-A8B9CC?style=flat&logo=C&logoColor=black)&nbsp;
-<!-- ![C++](https://img.shields.io/badge/-++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
 ![Mysql](https://img.shields.io/badge/-Mysql-8199C9?logo=mysql&logoColor=black)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-6C71AC?style=flat&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=black)\
