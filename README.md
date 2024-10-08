@@ -33,10 +33,11 @@
 
 <hr>
 <pre>
-<img align="right" width=100px height=100px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
+
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.
 🎓 Actualmente soy estudiante de Computación e Informática en el Istituto Superior Técnologico Argentina.
 🌱 Estoy en constante aprendizaje, con un interés particular en programación y desarrollo de software.
+<img align="right" width=100px height=100px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
 ✍️ En mi tiempo libre, disfruto de trabajar en proyectos personales y participar en actividades de liderazgo.
 💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas interesantes.
 ✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com! Siempre trataré de responder lo más rápido posible.
