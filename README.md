@@ -1,7 +1,7 @@
 ![logo](https://i.imgur.com/olf9cxf.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <em>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px" height="25px"></img>, soy Micael Cuadrado</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img>, soy Micael Cuadrado</h1>
 <h3 align="center">Un apasionado estudiante de Computación e Informática de Lima, Perú</h3>
 <p align="center">Me fascina cómo la tecnología 🌐 está transformando el futuro, y desde muy joven he estado interesado en las infinitas posibilidades que ofrece la computación. Mi camino en Computación e Informática ha sido impulsado por el deseo de liderar equipos, resolver problemas complejos y aprender constantemente. Me encanta explorar nuevos lenguajes de programación y stacks tecnológicos 💻, aplicándolos para desarrollar soluciones innovadoras 🛠️</p>
 </em>
@@ -46,8 +46,8 @@
 
 
 <br>
-<img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"/>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"><h3 align="left">Lenguajes de programación:</h3>
+<img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"><h3 align="left">Lenguajes de programación:</h3>
 <div align="center">
 &nbsp;
 
