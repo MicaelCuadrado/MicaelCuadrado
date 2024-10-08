@@ -35,11 +35,11 @@
 <pre>
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.
-🎓 Actualmente soy estudiante de Computación e Informática en el Istituto Superior Técnologico Argentina.<img align="right" width=85px height=85px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
-🌱 Estoy en constante aprendizaje, con un interés particular en programación y desarrollo de software.
-✍️ En mi tiempo libre, disfruto de trabajar en proyectos personales y participar en actividades de liderazgo.
-💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas interesantes.
-✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com! Siempre trataré de responder lo más rápido posible.
+🎓 Actualmente soy estudiante de Computación e Informática en el ISTP Argentina.<img align="right" width=85px height=85px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
+🌱 Estoy en constante aprendizaje, con un interés en programación y desarrollo de software.
+✍️ En mi tiempo libre, disfruto de trabajar en proyectos personales y escuchar música.
+💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas.
+✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com, 24H Max o te pedo una Pizza.
 📄 Echa un vistazo a mi perfil para conocer más detalles. ¡Estoy abierto a sugerencias y nuevos desafíos!
 </pre>
 <hr>
