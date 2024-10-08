@@ -28,10 +28,10 @@
 
 
 <!--  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">-->
-<br><br>
+<br>
+
 <hr>
 <pre>
-
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.
 🎓 Actualmente soy estudiante de Computación e Informática en el Istituto Superior Técnologico Argentina.
 🌱 Estoy en constante aprendizaje, con un interés particular en programación y desarrollo de software.
@@ -39,9 +39,8 @@
 💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas interesantes.
 ✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com! Siempre trataré de responder lo más rápido posible.
 📄 Echa un vistazo a mi perfil para conocer más detalles. ¡Estoy abierto a sugerencias y nuevos desafíos!
-
 </pre>
-<hr>
+</hr>
 
 
 <br>
