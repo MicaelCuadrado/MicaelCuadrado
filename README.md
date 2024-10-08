@@ -74,6 +74,7 @@
 	<a href=""><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Kaggle"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-@Micael.cs-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Kaggle"/></a>
+	<a href=""><img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="Kaggle"/></a>
 </p>
 <br>
 
@@ -83,6 +84,7 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
