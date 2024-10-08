@@ -166,4 +166,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>Me encanta conectar con diferentes personas , así que si quieres saludarme , ¡estaré feliz de conocerte más!</b> :)</em>
 
 <br>
-<p align="right" > Creado por <a href="https://www.linkedin.com/in/micael-cuadrado-silva-254b49269/">Micael Cuadrado</a></p>
+<p align="right" > Creado por © 2024 <a href="https://www.linkedin.com/in/micael-cuadrado-silva-254b49269/">Micael Cuadrado</a></p>
