@@ -91,11 +91,10 @@
 	<a href=""><img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="Kaggle"/></a>
 </p>
 </div>
-<br>
 
 <hr>
 
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
 <h3>ﾠSpotify:</h3>
 
 <div align="center">
