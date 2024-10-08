@@ -55,14 +55,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-EEECEC?&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/-%EF%BC%83-A8B9CC?style=flat&logo=C&logoColor=black)&nbsp;
-![C++](https://img.shields.io/badge/-++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+<!-- ![C++](https://img.shields.io/badge/-++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
+![Mysql](https://img.shields.io/badge/-Mysql-8199C9?logo=mysql&logoColor=black)&nbsp;
+![Php](https://img.shields.io/badge/-Php-6C71AC?style=flat&logo=php&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=black)\
 ![HTML](https://img.shields.io/badge/-HTML%205-EA7914?style=flat&logo=HTML5&logoColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=black)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Sql](https://img.shields.io/badge/-Sql%20Server-C29C32?style=flat&logo=Mysql&logoColor=white)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-EFA91C?style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1C4EDD?=flat&logo=adobe-photoshop&logoColor=black)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-C31948?style=flat&logo=adobe-indesign&logoColor=black)
