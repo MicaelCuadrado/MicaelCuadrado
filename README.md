@@ -45,6 +45,8 @@
 
 
 <br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+
 <h3 align="left">Lenguajes de programación:</h3>
 <div align="center">
 &nbsp;
