@@ -1,9 +1,10 @@
 <!-- ![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png) -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
+<em>
 <h1 align="center">Hola 👋, soy Micael Cuadrado</h1>
 <h3 align="center">Un apasionado estudiante de Computación e Informática de Lima, Perú</h3>
 <p align="center">Me fascina cómo la tecnología 🌐 está transformando el futuro, y desde muy joven he estado interesado en las infinitas posibilidades que ofrece la computación. Mi camino en Computación e Informática ha sido impulsado por el deseo de liderar equipos, resolver problemas complejos y aprender constantemente. Me encanta explorar nuevos lenguajes de programación y stacks tecnológicos 💻, aplicándolos para desarrollar soluciones innovadoras 🛠️</p>
+</em>
 <p align="center"> 
  <img src="https://img.shields.io/badge/visitas-97-blue" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -84,7 +85,7 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -98,7 +99,7 @@
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh">
  </div>
  <br><br>
 
