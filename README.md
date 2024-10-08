@@ -148,7 +148,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h2 align='center'>Muchas Gracias!!!!!</h2>
 <br><br/>
 
