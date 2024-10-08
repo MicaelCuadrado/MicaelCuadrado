@@ -150,7 +150,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h2 align='center'>Muchas Gracias!!!!!</h2>
-
+<br><br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>Me encanta conectar con diferentes personas , así que si quieres saludarme , ¡estaré feliz de conocerte más!</b> :)</em>
 
