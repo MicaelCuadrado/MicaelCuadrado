@@ -93,7 +93,7 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh](https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=kimbie_dark">
+<img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh">
  </div>
  
  <br><br>
