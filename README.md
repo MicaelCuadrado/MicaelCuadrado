@@ -45,7 +45,7 @@
 
 
 <br>
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
+<img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 <h3 align="left">Lenguajes de programación:</h3>
 <div align="center">
@@ -69,6 +69,8 @@
 </div>
 <hr>
 <br>
+
+<img align="right" width=170px height=170px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
 	<a href="mailto:micael.cuadrado@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
