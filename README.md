@@ -78,6 +78,7 @@
 <img align="right" width=170px height=170px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 <img align="left" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="40px">
 <h3>Conéctate conmigo:</h3>
+<div align="center">
 <p align="center">
 	<a href="mailto:micael.cuadrado@gmail.com"><img img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/micael-cuadrado-silva-254b49269/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -87,11 +88,12 @@
 	<a href=""><img src="https://img.shields.io/badge/-@Micael.cs-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Kaggle"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="Kaggle"/></a>
 </p>
+</div>
 <br>
 
 <hr>
 
-<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 <h3>ﾠSpotify:</h3>
 
 <div align="center">
