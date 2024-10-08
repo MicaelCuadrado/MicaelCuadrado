@@ -33,8 +33,7 @@
 
 <hr>
 <pre>
-<picture align="center"><img align="center" src = "https://i.imgur.com/1dLZbVV.gif" width = 70px></picture>
-	
+<img align="right" width=100px height=100px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.
 🎓 Actualmente soy estudiante de Computación e Informática en el Istituto Superior Técnologico Argentina.
 🌱 Estoy en constante aprendizaje, con un interés particular en programación y desarrollo de software.
