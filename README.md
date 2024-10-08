@@ -64,7 +64,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1C4EDD?=flat&logo=adobe-photoshop&logoColor=black)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-C31948?style=flat&logo=adobe-indesign&logoColor=black)
 </div>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
@@ -78,6 +78,10 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
