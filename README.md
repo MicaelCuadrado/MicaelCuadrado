@@ -64,7 +64,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1C4EDD?=flat&logo=adobe-photoshop&logoColor=black)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-C31948?style=flat&logo=adobe-indesign&logoColor=black)
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
@@ -77,7 +77,7 @@
 </p>
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 ### Spotify Playing 🎧
 
