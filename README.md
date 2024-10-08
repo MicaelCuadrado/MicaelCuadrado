@@ -43,7 +43,7 @@
 
 <br>
 <h3 align="left">Lenguajes de programación:</h3>
-
+<p align="center">
 ### 🛠 &nbsp;Pila de tecnología:
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)&nbsp;
@@ -61,7 +61,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-EFA91C?style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1C4EDD?=flat&logo=adobe-photoshop&logoColor=black)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-C31948?style=flat&logo=adobe-indesign&logoColor=black)
-
+</p>
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
@@ -77,44 +77,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
-
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
