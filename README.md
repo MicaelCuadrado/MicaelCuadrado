@@ -85,22 +85,17 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
 <h3 align="left">Trophy:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh">
+<img src="[https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=juicyfresh](https://github-profile-trophy.vercel.app/?username=MicaelCS&theme=kimbie_dark)">
  </div>
+ 
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
