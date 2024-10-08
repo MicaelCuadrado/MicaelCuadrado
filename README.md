@@ -39,15 +39,14 @@
 🌱 Estoy en constante aprendizaje, con un interés en programación y desarrollo de software.
 ✍️ En mi tiempo libre, disfruto de trabajar en proyectos personales y escuchar música.
 💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas.
-✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com, 24H Max o te pedo una Pizza.
+✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com, 24H Max o te pedo una Pizza. ;)
 📄 Echa un vistazo a mi perfil para conocer más detalles. ¡Estoy abierto a sugerencias y nuevos desafíos!
 </pre>
 <hr>
 
 
 <br>
-<img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
-
+<img align="right" width=170px height=170px alt="side_sticker" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"/>
 <h3 align="left">Lenguajes de programación:</h3>
 <div align="center">
 &nbsp;
@@ -70,7 +69,6 @@
 </div>
 <hr>
 <br>
-
 <img align="right" width=170px height=170px alt="side_sticker" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="center">
