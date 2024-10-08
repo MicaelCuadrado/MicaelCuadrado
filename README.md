@@ -40,7 +40,7 @@
 ✉️ ¡Puedes enviarme un correo a micael.cuadrado@gmail.com! Siempre trataré de responder lo más rápido posible.
 📄 Echa un vistazo a mi perfil para conocer más detalles. ¡Estoy abierto a sugerencias y nuevos desafíos!
 </pre>
-</hr>
+<hr>
 
 
 <br>
