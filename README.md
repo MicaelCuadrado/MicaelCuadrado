@@ -3,7 +3,7 @@
 <em>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img>, soy Micael Cuadrado</h1>
 <h3 align="center">Un apasionado estudiante de Computación e Informática de Lima, Perú</h3>
-<p align="center">Me fascina cómo la tecnología 🌐 está transformando el futuro, y desde muy joven he estado interesado en las infinitas posibilidades que ofrece la computación. Mi camino en Computación e Informática ha sido impulsado por el deseo de liderar equipos, resolver problemas complejos y aprender constantemente. Me encanta explorar nuevos lenguajes de programación y stacks tecnológicos 💻, aplicándolos para desarrollar soluciones innovadoras 🛠️</p>
+<p align="center">Me fascina cómo la tecnología 🌐 está transformando el futuro, y desde muy joven he  estado interesado en las infinitas posibilidades que ofrece la computación. Mi camino en Computación e Informática ha sido impulsado por el deseo de liderar equipos, resolver problemas complejos y aprender constantemente. Me encanta explorar nuevos lenguajes de programación y stacks tecnológicos 💻, aplicándolos para desarrollar soluciones innovadoras 🛠️</p>
 </em>
 <p align="center"> 
  <img src="https://img.shields.io/badge/visitas-97-blue" alt="supun nanayakkara" /> 
