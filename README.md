@@ -100,7 +100,7 @@
 
 <div align="center">
 	
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31teoyn4q5wkt57obplc3khassyq)
 
 </div>
 
