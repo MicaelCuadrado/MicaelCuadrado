@@ -89,6 +89,7 @@
 	<a href="https://www.facebook.com/@MicaelCuadrado/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 	<a href=""><img src="https://img.shields.io/badge/-@Micael.cs-BD081C?style=flat&logo=Pinterest&logoColor=white" alt="Kaggle"/></a>
 	<a href="https://x.com/MicaelCuadrado"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="Kaggle"/></a>
+	<a href="https://open.spotify.com/user/31xoamygyga34pgoh2b4xuiyymiy"><img src="https://img.shields.io/badge/-Spotify-%231ED760?style=flat&logo=spotify&logoColor=white" alt="Kaggle"/></a>
 </p>
 </div>
 <br>
