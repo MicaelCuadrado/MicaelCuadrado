@@ -35,7 +35,7 @@
 <pre>
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras en software.
-🎓 Actualmente soy estudiante de Computación e Informática en el ISTP Argentina.<img align="right" width=85px height=85px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
+🎓 Actualmente soy egresado de Computación e Informática en el ISTP Argentina.<img align="right" width=85px height=85px alt="side_sticker" src="https://i.imgur.com/1dLZbVV.gif" />
 🌱 Estoy en constante aprendizaje, con un interés en programación y desarrollo de software.
 ✍️ En mi tiempo libre, disfruto de trabajar en proyectos personales y escuchar música.
 💬 No dudes en contactarme para colaborar en proyectos o simplemente para compartir ideas.
